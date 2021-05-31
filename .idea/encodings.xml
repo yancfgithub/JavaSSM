@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/mvc01-hello-springmvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc02-requestmapping" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc02-requestmapping" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my01-hello-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my02-mybatis-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sp01-hello-spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sp02-di-anno" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sp04-aop-aspectj" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spmy01-spring-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spmy02-spring-trans" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spmy03spring-trans-anno" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spmy04-spring-trans-aspectj" charset="UTF-8" />
+  </component>
+</project>

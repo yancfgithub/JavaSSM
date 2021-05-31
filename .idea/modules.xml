@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mvc01-hello-springmvc/mvc01-hello-springmvc.iml" filepath="$PROJECT_DIR$/mvc01-hello-springmvc/mvc01-hello-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvc02-requestmapping/mvc02-requestmapping.iml" filepath="$PROJECT_DIR$/mvc02-requestmapping/mvc02-requestmapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my01-hello-mybatis/my01-hello-mybatis.iml" filepath="$PROJECT_DIR$/my01-hello-mybatis/my01-hello-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my02-mybatis-dao/my02-mybatis-dao.iml" filepath="$PROJECT_DIR$/my02-mybatis-dao/my02-mybatis-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp01-hello-spring/sp01-hello-spring.iml" filepath="$PROJECT_DIR$/sp01-hello-spring/sp01-hello-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp02-di-anno/sp02-di-anno.iml" filepath="$PROJECT_DIR$/sp02-di-anno/sp02-di-anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp03-aop-leadin/sp03-aop-leadin.iml" filepath="$PROJECT_DIR$/sp03-aop-leadin/sp03-aop-leadin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp04-aop-aspectj/sp04-aop-aspectj.iml" filepath="$PROJECT_DIR$/sp04-aop-aspectj/sp04-aop-aspectj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmy01-spring-mybatis/spmy01-spring-mybatis.iml" filepath="$PROJECT_DIR$/spmy01-spring-mybatis/spmy01-spring-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmy02-spring-trans/spmy02-spring-trans.iml" filepath="$PROJECT_DIR$/spmy02-spring-trans/spmy02-spring-trans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmy03spring-trans-anno/spmy03-spring-trans-anno.iml" filepath="$PROJECT_DIR$/spmy03spring-trans-anno/spmy03-spring-trans-anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmy04-spring-trans-aspectj/spmy04-spring-trans-aspectj.iml" filepath="$PROJECT_DIR$/spmy04-spring-trans-aspectj/spmy04-spring-trans-aspectj.iml" />
+    </modules>
+  </component>
+</project>

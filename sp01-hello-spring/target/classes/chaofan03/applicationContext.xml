@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="school" class="com.chaofan03.School">
+        <property name="name" value="祁县二中"/>
+        <property name="address" value="省监对面"/>
+    </bean>
+
+    <bean id="student" class="com.chaofan03.Student">
+        <constructor-arg name="name" value="李二狗"/>
+        <constructor-arg name="age" value="16"/>
+        <constructor-arg name="school" ref="school"/>
+    </bean>
+</beans>

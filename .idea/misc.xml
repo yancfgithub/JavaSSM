@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/mvc01-hello-springmvc" />
+    <file type="web" url="file://$PROJECT_DIR$/mvc02-requestmapping" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/my01-hello-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/sp02-di-anno/pom.xml" />
+        <option value="$PROJECT_DIR$/sp04-aop-aspectj/pom.xml" />
+        <option value="$PROJECT_DIR$/spmy01-spring-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spmy02-spring-trans/pom.xml" />
+        <option value="$PROJECT_DIR$/spmy03spring-trans-anno/pom.xml" />
+        <option value="$PROJECT_DIR$/spmy04-spring-trans-aspectj/pom.xml" />
+        <option value="$PROJECT_DIR$/mvc01-hello-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/mvc02-requestmapping/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

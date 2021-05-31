@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mvc01-hello-springmvc" />
+        <module name="mvc02-requestmapping" />
+        <module name="sp01-hello-spring" />
+        <module name="sp02-di-anno" />
+        <module name="sp04-aop-aspectj" />
+        <module name="spmy01-spring-mybatis" />
+        <module name="spmy02-spring-trans" />
+        <module name="spmy03-spring-trans-anno" />
+        <module name="spmy04-spring-trans-aspectj" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mvc01-hello-springmvc" target="1.8" />
+      <module name="mvc02-requestmapping" target="1.8" />
+      <module name="mvc02-requestmappring" target="1.8" />
+      <module name="my01-hello-mybatis" target="1.8" />
+      <module name="my02-mybatis-dao" target="1.8" />
+      <module name="sp01-hello-spring" target="1.8" />
+      <module name="sp02-di-anno" target="1.8" />
+      <module name="sp04-aop-aspectj" target="1.8" />
+      <module name="spmy01-spring-mybatis" target="1.8" />
+      <module name="spmy02-spring-trans" target="1.8" />
+      <module name="spmy03-spring-trans-anno" target="1.8" />
+      <module name="spmy04-spring-trans-aspectj" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
